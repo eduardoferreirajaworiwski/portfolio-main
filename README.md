@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 ## 💻  Sobre
 Projeto desenvolvido com HTML e CSS, totalmente responsivo.<br>
