@@ -118,6 +118,11 @@ button.contact-whatsapp {
     border: 1px solid #7a36e7;
     margin: 22px 0 0 0;
 }
+button.contact-email {
+    background-color: #0E091B;
+    border: 1px solid #7a36e7;
+    margin: 22px 0 0 0;
+}
 
 button.contact-linkedin:hover {
     background-color: #9b5dff;
@@ -125,6 +130,10 @@ button.contact-linkedin:hover {
 }
 
 button.contact-whatsapp:hover {
+    background-color: #261d3a;
+    cursor: pointer;
+}
+button.contact-email:hover {
     background-color: #261d3a;
     cursor: pointer;
 }
